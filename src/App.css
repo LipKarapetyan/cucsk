@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+table{
+  border-collapse: collapse;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+th,td{
+  border: 2px solid;
+
+}
+th{
+  background-color: rgb(122, 127, 133);
+}
+td{
+
+  background-color: rgb(156, 184, 196);
+}
